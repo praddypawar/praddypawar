@@ -2,8 +2,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF9933&pause=900&size=20em&lines=Hey!+It's+Pradip!;I'm+a+Python+Developer...;I'm+also+Machine+Learning+Engineer.." alt="Typing SVG" /></a>
 
-<h4 align="center">I'm passionate about technology and solving problems using code. I also enjoy working on freelance projects.y, <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">click here</a> for more</h4>
- <a href="https://1999azzar.github.io/1999AZZAR/">
+<h4 align="center">I'm passionate about technology and solving problems using code. I also enjoy working on freelance projects., <a href="#" target="_blank">click here</a> for more</h4>
+ <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
